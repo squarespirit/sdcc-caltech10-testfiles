@@ -1,0 +1,12 @@
+*.hc08
+*.asm
+*.cdb
+*.dump*
+*.lk
+*.lst
+*.map
+*.rel
+*.rst
+*.s19
+*.sym 
+
